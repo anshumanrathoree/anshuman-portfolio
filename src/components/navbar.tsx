@@ -26,7 +26,7 @@ export function Navbar() {
             transition={{ delay: 0.1 }}
           >
             <Link href="/" className="text-xl font-bold">
-              FK
+              AR
             </Link>
           </motion.div>
 
