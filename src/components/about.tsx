@@ -100,7 +100,7 @@ export function About() {
               <div className="w-64 h-64 mx-auto lg:mx-0 rounded-2xl overflow-hidden bg-gradient-to-br from-blue-100 to-purple-100 dark:from-blue-900/20 dark:to-purple-900/20 flex items-center justify-center">
                 <Image
                   src="/profile-picture.jpg"
-                  alt="Farhan Khan - Cloud & DevOps Engineer"
+                  alt="Anshuman Rathore - Cloud & DevOps Engineer"
                   width={256}
                   height={256}
                   className="w-full h-full object-cover"

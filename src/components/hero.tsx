@@ -58,7 +58,7 @@ export function Hero() {
               transition={{ duration: 0.8, ease: "easeOut" }}
             >
               <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-800 bg-clip-text text-transparent">
-                Farhan Khan
+                Anshuman Rathore
               </span>
             </motion.h1>
 

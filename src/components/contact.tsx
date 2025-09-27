@@ -26,7 +26,7 @@ const contactLinks = [
     name: "LinkedIn",
     value: "linkedin.com/in/farhan-khan",
     icon: Linkedin,
-    href: "https://www.linkedin.com/in/farhan-khan-237636201/",
+    href: "https://www.linkedin.com/in/anshuman-rathore/",
     description: "Let's connect professionally"
   },
   {

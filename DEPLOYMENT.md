@@ -7,7 +7,7 @@ This guide will help you set up automatic deployment to Vercel with GitHub Actio
 ### 1. Create GitHub Repository
 
 1. Go to [GitHub](https://github.com) and create a new repository
-2. Name it `farhan-portfolio` (or any name you prefer)
+2. Name it `anshuman-portfolio` (or any name you prefer)
 3. Make it public or private
 4. Don't initialize with README (we already have one)
 
@@ -18,7 +18,7 @@ This guide will help you set up automatic deployment to Vercel with GitHub Actio
 git add .
 git commit -m "Initial commit: Modern portfolio with Next.js"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/farhan-portfolio.git
+git remote add origin https://github.com/YOUR_USERNAME/anshuman-portfolio.git
 git push -u origin main
 ```
 

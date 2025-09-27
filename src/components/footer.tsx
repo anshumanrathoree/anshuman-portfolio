@@ -19,7 +19,7 @@ export function Footer() {
 
           <div className="pt-4">
             <p className="text-sm text-muted-foreground flex items-center justify-center gap-2">
-              © 2025 Farhan Khan
+              © 2025 Anshuman Rathore
               <Heart className="w-4 h-4 text-red-500 fill-current" />
 
             </p>

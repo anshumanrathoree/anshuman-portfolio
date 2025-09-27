@@ -13,25 +13,25 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Farhan Khan - Cloud & DevOps Engineer",
+  title: "Anshuman Rathore - Cloud & DevOps Engineer",
   description: "Cloud & DevOps Engineer specializing in AWS, Docker, Kubernetes, Terraform, and AI-driven solutions. Building scalable infrastructure for modern applications.",
   keywords: ["Cloud Engineer", "DevOps", "AWS", "Docker", "Kubernetes", "Terraform", "Python", "AI", "LLMs"],
-  authors: [{ name: "Farhan Khan" }],
-  creator: "Farhan Khan",
-  metadataBase: new URL("https://farhankhan.dev"),
+  authors: [{ name: "Anshuman Rathore" }],
+  creator: "Anshuman Rathore",
+  metadataBase: new URL("https://anshumanrathore.dev"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://farhankhan.dev",
-    title: "Farhan Khan - Cloud & DevOps Engineer",
+    url: "https://anshumanrathore.dev",
+    title: "Anshuman Rathore - Cloud & DevOps Engineer",
     description: "Cloud & DevOps Engineer specializing in AWS, Docker, Kubernetes, Terraform, and AI-driven solutions.",
-    siteName: "Farhan Khan Portfolio",
+    siteName: "Anshuman Rathore Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Farhan Khan - Cloud & DevOps Engineer",
+    title: "Anshuman Rathore - Cloud & DevOps Engineer",
     description: "Cloud & DevOps Engineer specializing in AWS, Docker, Kubernetes, Terraform, and AI-driven solutions.",
-    creator: "@farhankhandev",
+    creator: "@anshumanrathore",
   },
 };
 

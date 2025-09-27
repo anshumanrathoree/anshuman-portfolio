@@ -1,4 +1,4 @@
-# Farhan Khan - Developer Portfolio
+# Anshuman Rathore - Developer Portfolio
 
 A modern, responsive portfolio website built with Next.js, Tailwind CSS, and shadcn/ui components.
 
@@ -25,7 +25,7 @@ A modern, responsive portfolio website built with Next.js, Tailwind CSS, and sha
 ## 📁 Project Structure
 
 ```
-farhan-portfolio/
+anshuman-portfolio/
 ├── public/
 │   └── resume.pdf          # Resume file for download
 ├── src/
@@ -101,6 +101,6 @@ npm start
 
 ---
 
-**Built with ❤️ by Farhan Khan**
+**Built with ❤️ by Anshuman Rathore**
 
-© 2025 Farhan Khan • Built with Next.js & Tailwind CSS
+© 2025 Anshuman Rathore • Built with Next.js & Tailwind CSS
