@@ -17,23 +17,23 @@ import {
 const contactLinks = [
   {
     name: "Email",
-    value: "fk3205545@email.com",
+    value: "anshumanrathoree@email.com",
     icon: Mail,
-    href: "mailto:fk3205545@email.com",
+    href: "mailto:anshumanrathoree@email.com",
     description: "Send me an email"
   },
   {
     name: "LinkedIn",
-    value: "linkedin.com/in/farhan-khan",
+    value: "linkedin.com/in/anshuman-rathore11",
     icon: Linkedin,
     href: "https://www.linkedin.com/in/anshuman-rathore/",
     description: "Let's connect professionally"
   },
   {
     name: "GitHub",
-    value: "github.com/f1rh1n",
+    value: "github.com/anshumanrathoree",
     icon: Github,
-    href: "https://github.com/f1rh1n",
+    href: "https://github.com/anshumanrathoree",
     description: "Check out my repositories"
   },
 

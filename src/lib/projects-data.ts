@@ -18,7 +18,7 @@ export const projects: ProjectData[] = [
     description: "Developed a RAG chatbot capable of answering queries from enterprise documents (PDF, DOCX). Integrated Ollama for local LLM inference, eliminating reliance on external APIs.",
     longDescription: "This project demonstrates the implementation of a Retrieval-Augmented Generation (RAG) chatbot capable of processing and answering queries from various enterprise document formats including PDF and DOCX files. The solution leverages Ollama for local LLM inference, eliminating dependencies on external APIs while maintaining high performance and data privacy.",
     tech: ["Ollama", "FastAPI", "ChromaDB", "React", "Docker"],
-    github: "https://github.com/f1rh1n/enterprise-doc-chatbot",
+    github: "https://github.com/anshumanrathoree/enterprise-doc-chatbot",
     details: [
       "Developed a RAG chatbot capable of answering queries from enterprise documents (PDF, DOCX).",
       "Integrated Ollama for local LLM inference, eliminating reliance on external APIs (OpenAI/Claude).",
@@ -51,7 +51,7 @@ export const projects: ProjectData[] = [
     description: "Containerized and deployed a Node.js microservice on Kubernetes with Ingress, probes, and ConfigMaps. Implemented GitHub Actions pipeline with security scanning.",
     longDescription: "A complete DevOps solution showcasing modern Kubernetes deployment practices with automated CI/CD pipelines, security scanning, and production-grade monitoring. This project demonstrates best practices for containerized application deployment with emphasis on security, observability, and reliability.",
     tech: ["Kubernetes", "Docker", "GitHub Actions", "Trivy", "KubeArmor"],
-    github: "https://github.com/f1rh1n/wisecow-assessment",
+    github: "https://github.com/anshumanrathoree/wisecow-assessment",
     details: [
       "Containerized and deployed a Node.js microservice on Kubernetes with Ingress, probes, and ConfigMaps.",
       "Implemented GitHub Actions pipeline (test → build → scan → deploy) with Trivy security scanning.",
@@ -85,7 +85,7 @@ export const projects: ProjectData[] = [
     description: "Automated deployment of a serverless monitoring system using CloudFormation (IaC). Configured AWS Lambda functions to process CloudWatch metrics with AI-based log analysis.",
     longDescription: "An intelligent infrastructure monitoring solution that combines traditional CloudWatch metrics with AI-driven analysis to provide predictive insights into system health. The system uses Infrastructure as Code principles for reproducible deployments and implements serverless architecture for cost-effective operations.",
     tech: ["AWS Lambda", "CloudFormation", "CloudWatch", "SNS", "Python"],
-    github: "https://github.com/f1rh1n/ai-infra-monitor",
+    github: "https://github.com/anshumanrathoree/ai-infra-monitor",
     details: [
       "Automated deployment of a serverless monitoring system using CloudFormation (IaC).",
       "Configured AWS Lambda functions to process CloudWatch metrics and send alerts via SNS.",
@@ -119,7 +119,7 @@ export const projects: ProjectData[] = [
     description: "Provisioned a fault-tolerant web application architecture with Terraform (IaC). Configured Auto Scaling Group + Application Load Balancer for automatic recovery.",
     longDescription: "A robust, self-healing infrastructure solution built with Terraform that demonstrates modern cloud architecture principles. The system automatically recovers from failures, scales based on demand, and maintains high availability through redundancy and intelligent load balancing.",
     tech: ["Terraform", "AWS ASG", "ALB", "EC2", "IAM"],
-    github: "https://github.com/f1rh1n/self-healing-infra",
+    github: "https://github.com/anshumanrathoree/self-healing-infra",
     details: [
       "Provisioned a fault-tolerant web application architecture with Terraform (IaC).",
       "Configured Auto Scaling Group (ASG) + Application Load Balancer (ALB) for automatic recovery of failed instances.",

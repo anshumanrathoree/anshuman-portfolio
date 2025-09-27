@@ -113,7 +113,7 @@ export function Projects() {
         >
           <Button variant="outline" size="lg" asChild>
             <a
-              href="https://github.com/f1rh1n"
+              href="https://github.com/anshumanrathoree"
               target="_blank"
               rel="noopener noreferrer"
               className="text-base px-8"
