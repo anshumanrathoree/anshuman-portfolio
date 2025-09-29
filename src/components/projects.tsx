@@ -41,10 +41,10 @@ export function Projects() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4">
-            Featured Projects
+            Built & Deployed
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            A showcase of cloud infrastructure, DevOps automation, and AI-driven solutions I&apos;ve built
+            From self-healing infra to AI chatbots — a glimpse into the systems I’ve brought to life.
           </p>
         </motion.div>
 

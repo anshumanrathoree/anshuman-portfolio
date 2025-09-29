@@ -81,10 +81,10 @@ export function About() {
           className="text-center mb-16"
         >
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold mb-4">
-            About Me
+            From Code to Cloud
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            Passionate about building scalable cloud infrastructure and automation solutions
+            Designing infra that heals itself, pipelines that deliver, and systems teams can trust.
           </p>
         </motion.div>
 
@@ -133,14 +133,13 @@ export function About() {
           >
             <div className="prose prose-lg dark:prose-invert max-w-none">
               <p className="text-lg leading-relaxed text-muted-foreground">
-                I build production-grade infrastructure and automation that teams can trust. My focus: AWS-first cloud architectures, container platforms, and CI/CD that turns ideas into running services quickly and safely.
+                I design resilient cloud infrastructure and automation that teams can rely on — AWS-first, container-driven, and CI/CD pipelines that transform ideas into secure, production-ready services at speed.
               </p>
               <p className="text-lg leading-relaxed text-muted-foreground">
-                Recent work includes a local-LLM RAG chatbot with Ollama + FastAPI, a Kubernetes app with GitHub Actions, Trivy, and KubeArmor, serverless monitoring on AWS (Lambda, CloudWatch, SNS) via IaC, and self-healing infra using Terraform with ASG + ALB. The throughline: clean IaC, observable systems, and secure-by-default pipelines.
+                Lately, I’ve delivered a local-LLM RAG chatbot (Ollama + FastAPI), a Kubernetes app wired with GitHub Actions, Trivy, and KubeArmor, and serverless monitoring stacks on AWS (Lambda, CloudWatch, SNS) — all built through clean IaC. My focus: infra that heals itself, systems you can observe, and pipelines that are secure by default.
               </p>
               <p className="text-lg leading-relaxed text-muted-foreground">
-                I’m constantly iterating—instrumenting with Prometheus/Grafana, tightening feedback loops, and exploring where AI meaningfully augments DevOps (log intelligence, drift detection, noisy-alert reduction). Less heroics, more reliable delivery.
-              </p>
+                I keep iterating—wiring up Prometheus/Grafana for visibility, shortening feedback loops, and experimenting with how AI can sharpen DevOps (smarter logs, drift detection, quieter alerts). The goal: fewer firefights, more dependable delivery.              </p>
             </div>
 
             <div>
